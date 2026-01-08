@@ -1,11 +1,10 @@
 ## About Me
 
-🔭 Working on full-stack (MERN) & backend projects
-🌱 Learning advanced React, Python, Django & Cloud
-👯 Open to collaborate on web & open-source projects
-💬 Ask me about Python, Django, MERN & Web Development
-⚡ Fun fact: I love debugging more than writing code
----
+Working on full-stack MERN Projects & backend projects<br>
+Learning advanced React, Pyhton, Django & Cloud<br>
+Open to collaborate & open source projects<br>
+Fun Fact: I love debugging more than writing code
+
 
 ## Socials
 
