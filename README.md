@@ -1,11 +1,10 @@
 ## About Me
 
-Working on full-stack (MERN) and backend projects with a strong focus on building scalable web applications.  
-Currently learning advanced React, Python, Django, and Cloud technologies.  
-Open to collaborating on web development and open-source projects.  
-Feel free to ask me about Python, Django, MERN stack, and web development.  
-Enjoy problem-solving and debugging complex issues.
-
+🔭 Working on full-stack (MERN) & backend projects
+🌱 Learning advanced React, Python, Django & Cloud
+👯 Open to collaborate on web & open-source projects
+💬 Ask me about Python, Django, MERN & Web Development
+⚡ Fun fact: I love debugging more than writing code
 ---
 
 ## Socials
@@ -36,11 +35,11 @@ Enjoy problem-solving and debugging complex issues.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshika8-cmd&show_icons=true&theme=shadow_blue&hide_border=false&count_private=true)
+
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Anshika8-cmd&theme=shadow_blue&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika8-cmd&layout=compact&theme=shadow_blue&hide_border=false)
+
 
 ---
 
